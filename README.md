@@ -8,5 +8,4 @@
 
 ## Технологии
 - Frontend: HTML/CSS/JavaScript
-- Backend: Node.js
-- База данных: PostgreSQL
+- База данных: SQL server manager
