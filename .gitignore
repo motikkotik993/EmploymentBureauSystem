@@ -3,7 +3,7 @@
 
 # Базы данных
 *.db
-*.sqlite
+*.backpac
 
 # Зависимости
 node_modules/
